@@ -69,6 +69,6 @@ Desarrollador **Full Stack & Mobile Senior con más de 8 años de experiencia** 
 ¿Tienes un proyecto desafiante, una oportunidad de liderazgo técnico o quieres conversar sobre arquitectura de software? ¡Escríbeme!
 
 * 🌐 **Portafolio:** [davidbernardo.dev](https://www.davidbernardo.dev)
-* 💼 **LinkedIn:** [david-henry-bernardo-cardenas](https://www.linkedin.com/in/david-henry-bernardo-cardenas-16aa63123)
+* 💼 **LinkedIn:** [david-henry-bernardo-cardenas](https://www.linkedin.com/in/david-henry-bernardo-cardenas)
 * ✍️ **Dev.to:** [@davidbernardo](https://dev.to/davidbernardo)
 * ✉️ **Correo:** [dhenrybernardo@gmail.com](mailto:dhenrybernardo@gmail.com)
